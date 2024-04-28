@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/sFuzz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sFuzz/cmake/cable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sFuzz/evmc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sFuzz/hera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sFuzz/hera/cmake/cable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sFuzz/hera/evm2wasm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sFuzz/hera/evmc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sFuzz/test/jsontests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sFuzz/testfuzzer/googletest" vcs="Git" />
+  </component>
+</project>
